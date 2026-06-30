@@ -14,8 +14,15 @@
 </p>
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Seeby24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Contribution Streak](https://streak-stats.demolab.com/?user=Seeby24&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Seeby24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table>
+	<tr>
+		<td>
+			<img src="https://github-readme-stats.shion.dev/api?username=Seeby24&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+		</td>
+		<td>
+			<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Seeby24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+		</td>
+	</tr>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake animation](https://github.com/seeby24/seeby24/blob/output/github-contribution-grid-snake.svg)
