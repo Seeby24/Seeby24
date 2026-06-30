@@ -25,4 +25,4 @@
 	</tr>
 </table>
 
-![Snake animation](https://raw.githubusercontent.com/Seeby24/Seeby24/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/seeby24/seeby24/output/github-contribution-grid-snake.svg)
