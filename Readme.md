@@ -1,3 +1,7 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi,%20I'm%20Sebastian!&fontSize=50&fontAlignY=40&desc=Computer%20Science%20Student%&descAlignY=65"/>
+
+
+
 ## 💫 About Me
 
 ```bash
