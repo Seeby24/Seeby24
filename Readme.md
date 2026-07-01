@@ -1,7 +1,38 @@
-# 💫 About Me:
-🔭 I’m currently working on some cool Projects <br>
-🌱 I’m currently learning Rust <br>
-👨‍💻 My Portfolio:https://seeby24.github.io/Portfolio/<br>
+## 💫 About Me
+
+```bash
+$ whoami
+Sebastian Willmann
+
+$ portfolio
+https://seeby24.github.io/Portfolio/
+
+$ education
+IMS Winterthur - Computer Science
+
+$ location
+Switzerland 🇨🇭
+
+$ interests
+React Development, Backend Development, Docker, AI
+
+$ currently_learning
+Rust • Docker • MongoDB
+
+$ tech_stack
+JavaScript • React • Node.js • Docker • Git • Java
+
+$ hobbies
+Gym | Chess | Gaming | Wushu
+
+$ status
+Building projects and learning something new every day 🚀
+
+$ dream
+Become a Software Engineer
+```
+
+Portfolio: [https://seeby24.github.io/Portfolio/](https://seeby24.github.io/Portfolio/)
 
 
 ## 🌐 Socials:
