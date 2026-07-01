@@ -61,3 +61,5 @@ Portfolio: [https://seeby24.github.io/Portfolio/](https://seeby24.github.io/Port
 </table>
 
 ![Snake animation](https://github.com/Seeby24/Seeby24/blob/output/github-contribution-grid-snake.svg)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
