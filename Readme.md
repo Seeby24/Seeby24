@@ -17,10 +17,10 @@
 <table>
 	<tr>
 		<td>
-			<img src="https://github-readme-stats.shion.dev/api?username=Seeby24&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+			<img src="https://github-readme-stats.shion.dev/api?username=Seeby24&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="420" />
 		</td>
 		<td>
-			<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Seeby24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+			<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Seeby24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="420" />
 		</td>
 	</tr>
 </table>
