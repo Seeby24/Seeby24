@@ -21,7 +21,7 @@ $ interests
 React Development, Backend Development, Docker, AI
 
 $ currently_learning
-Rust • Docker • MongoDB
+Go • Docker • TS 
 
 $ tech_stack
 JavaScript • React • Node.js • Docker • Git • Java
